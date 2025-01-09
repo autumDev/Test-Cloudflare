@@ -1,1 +1,1 @@
-[Visit Live Site](https://test.autumsoft.com "Test Subdomain")
+[Visit Live Site](test.autumsoft.com "Test Subdomain")
